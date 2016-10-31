@@ -1,0 +1,2 @@
+# Worktime
+It is a program written in C++ in QT calculating working hours during a month. Created in need while working in Germany, otherwise I would have to calculate it manually. Based on start and finish time it gives time of being in work and based on start and finish of all breaks it gives summary time of breaks. An outcome is substraction time of work and time of all breaks. Also there is a possibility to export that month worktime table to pdf in order to print it. Exporting QTableView to pdf document uses HTML.
